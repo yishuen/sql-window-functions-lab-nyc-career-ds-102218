@@ -21,6 +21,10 @@ From the Postgres terminal, enter the following command to create the database w
 
 > `CREATE DATABASE window_functions_db;`
 
+Now let's create our table and populate it with data.  The code for accomplishing this task already exists in `seed.sql`!  We can execute this code by entering the following command into the terminal:
+
+`psql window_functions_db < seed.sql`
+
 And we are all set! Now, on to the lab...
 
 ## Record Store Sales
