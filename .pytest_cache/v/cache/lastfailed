@@ -1,4 +1,5 @@
 {
+  "test/index_test.py": true,
   "test/index_test.py::TestSQLWindowFunctions::test_select_distinct_date_and_total_company_wide_sales_split_by_date_ordered_by_date": true,
   "test/index_test.py::TestSQLWindowFunctions::test_select_distinct_location_and_avg_amount_partitioned_by_location": true,
   "test/index_test.py::TestSQLWindowFunctions::test_select_distinct_total_location_sales_on_april_23": true,
